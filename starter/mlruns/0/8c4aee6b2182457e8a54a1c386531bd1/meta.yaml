@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/8c4aee6b2182457e8a54a1c386531bd1/artifacts
+end_time: 1685085317039
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c4aee6b2182457e8a54a1c386531bd1
+run_name: vaunted-ram-832
+run_uuid: 8c4aee6b2182457e8a54a1c386531bd1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685085292343
+status: 4
+tags: []
+user_id: gchri

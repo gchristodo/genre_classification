@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/9de158eace154169b12526d09a264d4e/artifacts
+end_time: 1685026271173
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9de158eace154169b12526d09a264d4e
+run_name: painted-robin-374
+run_uuid: 9de158eace154169b12526d09a264d4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685026248370
+status: 4
+tags: []
+user_id: gchri

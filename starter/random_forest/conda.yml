@@ -10,6 +10,7 @@ dependencies:
   - plotly==4.4.1
   - pillow=8.1.2
   - mlflow=1.14.1
+  - pyarrow=8.0.0
   - pip:
-      - wandb==0.10.21
+      - wandb==0.15.3
       - omegaconf==2.0.6

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/c3c0173e335d46f2b6e3baf0f4011a64/artifacts
+end_time: 1685102911482
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3c0173e335d46f2b6e3baf0f4011a64
+run_name: amusing-moth-191
+run_uuid: c3c0173e335d46f2b6e3baf0f4011a64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685102882445
+status: 3
+tags: []
+user_id: gchri

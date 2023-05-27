@@ -19,7 +19,4 @@ entry_points:
         type: str
 
     command: >-
-      python download_data.py --file_url {file_url} \
-                              --artifact_name {artifact_name} \
-                              --artifact_type {artifact_type} \
-                              --artifact_description {artifact_description}
+      python download_data.py --file_url {file_url} --artifact_name {artifact_name} --artifact_type {artifact_type} --artifact_description {artifact_description}

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/f20e9e6b8d1a4e23882a165ef3a3910f/artifacts
+end_time: 1685102863483
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f20e9e6b8d1a4e23882a165ef3a3910f
+run_name: thundering-ram-144
+run_uuid: f20e9e6b8d1a4e23882a165ef3a3910f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685102834999
+status: 3
+tags: []
+user_id: gchri

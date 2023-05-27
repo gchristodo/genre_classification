@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/ef6a564e7ff74bcab6329173fb654dfd/artifacts
+end_time: 1685027734588
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef6a564e7ff74bcab6329173fb654dfd
+run_name: debonair-wasp-881
+run_uuid: ef6a564e7ff74bcab6329173fb654dfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685027706918
+status: 4
+tags: []
+user_id: gchri

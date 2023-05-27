@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/a7ac28b26aa04d8cbf7282e2a646e856/artifacts
+end_time: 1685028183395
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7ac28b26aa04d8cbf7282e2a646e856
+run_name: abundant-conch-525
+run_uuid: a7ac28b26aa04d8cbf7282e2a646e856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685028155672
+status: 4
+tags: []
+user_id: gchri

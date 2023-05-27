@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/c5c0658bd88649fb8b2c6a75c2c27c82/artifacts
+end_time: 1685026471057
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5c0658bd88649fb8b2c6a75c2c27c82
+run_name: dapper-mouse-190
+run_uuid: c5c0658bd88649fb8b2c6a75c2c27c82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685026443702
+status: 4
+tags: []
+user_id: gchri

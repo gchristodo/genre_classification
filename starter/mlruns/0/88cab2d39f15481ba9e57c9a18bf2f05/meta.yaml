@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/88cab2d39f15481ba9e57c9a18bf2f05/artifacts
+end_time: 1685026683596
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 88cab2d39f15481ba9e57c9a18bf2f05
+run_name: sedate-pug-228
+run_uuid: 88cab2d39f15481ba9e57c9a18bf2f05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685026681079
+status: 4
+tags: []
+user_id: gchri

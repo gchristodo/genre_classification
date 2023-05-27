@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/613b58baaafd4a8cb37d992b5835dc56/artifacts
+end_time: 1685082864307
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 613b58baaafd4a8cb37d992b5835dc56
+run_name: fearless-swan-370
+run_uuid: 613b58baaafd4a8cb37d992b5835dc56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685082839874
+status: 4
+tags: []
+user_id: gchri

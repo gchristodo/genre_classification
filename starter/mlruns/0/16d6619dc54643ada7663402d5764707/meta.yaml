@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/16d6619dc54643ada7663402d5764707/artifacts
+end_time: 1685088745346
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16d6619dc54643ada7663402d5764707
+run_name: mysterious-yak-219
+run_uuid: 16d6619dc54643ada7663402d5764707
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685088719568
+status: 3
+tags: []
+user_id: gchri

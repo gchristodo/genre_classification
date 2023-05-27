@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/41814d2b60da40d986126796bfc36d08/artifacts
+end_time: 1685112925276
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 41814d2b60da40d986126796bfc36d08
+run_name: amusing-mule-244
+run_uuid: 41814d2b60da40d986126796bfc36d08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685112895571
+status: 3
+tags: []
+user_id: gchri

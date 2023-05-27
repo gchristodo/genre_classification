@@ -1,0 +1,63 @@
+{
+    "os": "Windows-10-10.0.19045-SP0",
+    "python": "3.9.15",
+    "heartbeatAt": "2023-05-26T12:12:45.905427",
+    "startedAt": "2023-05-26T12:12:45.186429",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--input_artifact",
+        "preprocessed_data.csv:latest",
+        "--artifact_root",
+        "data",
+        "--artifact_type",
+        "segregated_data",
+        "--test_size",
+        "0.3",
+        "--random_state",
+        "42",
+        "--stratify",
+        "genre"
+    ],
+    "state": "running",
+    "program": "C:\\Users\\gchri\\Desktop\\Pfizer\\Udacity\\End_to_end_ML_Pipeline\\genre_classification\\starter\\segregate\\run.py",
+    "codePath": "starter\\segregate\\run.py",
+    "git": {
+        "remote": "https://github.com/gchristodo/genre_classification.git",
+        "commit": "3caa5502c8bd002a92dc7b734672dd93ccc1e29c"
+    },
+    "email": "gchristodouloumath@gmail.com",
+    "root": "C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification",
+    "host": "DESKTOP-6SH789H",
+    "username": "gchri",
+    "executable": "C:\\Users\\gchri\\anaconda3\\envs\\mlflow-e146f1be6f6fa01d7a7f8827e9020d27e775f1a4\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 4001.0,
+        "min": 0.0,
+        "max": 4001.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 4001.0,
+            "min": 0.0,
+            "max": 4001.0
+        }
+    ],
+    "disk": {
+        "total": 464.4071502685547,
+        "used": 391.59888076782227
+    },
+    "gpu": "NVIDIA GeForce GTX 1070",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 1070",
+            "memory_total": 8589934592
+        }
+    ],
+    "memory": {
+        "total": 23.940975189208984
+    }
+}

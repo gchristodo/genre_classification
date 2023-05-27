@@ -11,5 +11,4 @@ entry_points:
         description: Fully-qualified artifact name for the test data
         type: str
     command: >-
-      python run.py --model_export {model_export} \
-                    --test_data {test_data}
+      python run.py --model_export {model_export} --test_data {test_data}

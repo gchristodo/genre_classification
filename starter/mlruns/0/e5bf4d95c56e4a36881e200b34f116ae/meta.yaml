@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/e5bf4d95c56e4a36881e200b34f116ae/artifacts
+end_time: 1685076494647
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e5bf4d95c56e4a36881e200b34f116ae
+run_name: adventurous-duck-243
+run_uuid: e5bf4d95c56e4a36881e200b34f116ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685076465842
+status: 4
+tags: []
+user_id: gchri

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/c1f60742827d4518942f208b9665a627/artifacts
+end_time: 1685075505564
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c1f60742827d4518942f208b9665a627
+run_name: bedecked-loon-926
+run_uuid: c1f60742827d4518942f208b9665a627
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685075477557
+status: 4
+tags: []
+user_id: gchri

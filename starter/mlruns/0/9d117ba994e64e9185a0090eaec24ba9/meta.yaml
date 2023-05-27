@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/9d117ba994e64e9185a0090eaec24ba9/artifacts
+end_time: 1685085685825
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d117ba994e64e9185a0090eaec24ba9
+run_name: luminous-cod-653
+run_uuid: 9d117ba994e64e9185a0090eaec24ba9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685085655684
+status: 3
+tags: []
+user_id: gchri

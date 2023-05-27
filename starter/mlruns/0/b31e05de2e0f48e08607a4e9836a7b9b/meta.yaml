@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/b31e05de2e0f48e08607a4e9836a7b9b/artifacts
+end_time: 1685019563147
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b31e05de2e0f48e08607a4e9836a7b9b
+run_name: handsome-horse-696
+run_uuid: b31e05de2e0f48e08607a4e9836a7b9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685019017531
+status: 4
+tags: []
+user_id: gchri

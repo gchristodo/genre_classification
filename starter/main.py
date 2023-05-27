@@ -20,8 +20,10 @@ def go(config: DictConfig):
         # This was passed on the command line as a comma-separated list of steps
         steps_to_execute = config["main"]["execute_steps"].split(",")
     else:
-        assert isinstance(config["main"]["execute_steps"], list)
-        steps_to_execute = config["main"]["execute_steps"]
+        assert isinstance(list(config["main"]["execute_steps"]), list)
+        steps_to_execute = list(config["main"]["execute_steps"])
+        print("This is the TYPE!!!!:", type(steps_to_execute))
+        print("These are the STEPS: ", steps_to_execute)
 
     # Download step
     if "download" in steps_to_execute:
@@ -33,7 +35,7 @@ def go(config: DictConfig):
                 "file_url": config["data"]["file_url"],
                 "artifact_name": "raw_data.parquet",
                 "artifact_type": "raw_data",
-                "artifact_description": "Data as downloaded"
+                "artifact_description": "Data_as_downloaded"
             },
         )
 
@@ -47,7 +49,7 @@ def go(config: DictConfig):
                 "input_artifact": "raw_data.parquet:latest",
                 "artifact_name": "preprocessed_data.csv",
                 "artifact_type": "preprocessed_data",
-                "artifact_description": "Data with preprocessing"
+                "artifact_description": "Data_with_preprocessing"
             },
         )
 

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/e245fc5705d3460b98b1b304944e5909/artifacts
+end_time: 1685022045746
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e245fc5705d3460b98b1b304944e5909
+run_name: clumsy-mole-247
+run_uuid: e245fc5705d3460b98b1b304944e5909
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685021952805
+status: 4
+tags: []
+user_id: gchri

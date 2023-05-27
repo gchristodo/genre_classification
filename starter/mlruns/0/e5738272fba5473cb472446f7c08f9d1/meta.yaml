@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/e5738272fba5473cb472446f7c08f9d1/artifacts
+end_time: 1685028391149
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e5738272fba5473cb472446f7c08f9d1
+run_name: popular-swan-804
+run_uuid: e5738272fba5473cb472446f7c08f9d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685028369210
+status: 4
+tags: []
+user_id: gchri

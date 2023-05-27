@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/63bfaa2c2ee64c10bae63f634af303fd/artifacts
+end_time: 1685028653749
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63bfaa2c2ee64c10bae63f634af303fd
+run_name: receptive-hog-546
+run_uuid: 63bfaa2c2ee64c10bae63f634af303fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685028626738
+status: 4
+tags: []
+user_id: gchri

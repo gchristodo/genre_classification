@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/c5ed113df95e464d95b8db6b95ecdb5a/artifacts
+end_time: 1685025773937
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5ed113df95e464d95b8db6b95ecdb5a
+run_name: bald-whale-326
+run_uuid: c5ed113df95e464d95b8db6b95ecdb5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685025751193
+status: 4
+tags: []
+user_id: gchri

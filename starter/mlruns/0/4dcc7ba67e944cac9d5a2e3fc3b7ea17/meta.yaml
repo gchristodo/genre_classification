@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/4dcc7ba67e944cac9d5a2e3fc3b7ea17/artifacts
+end_time: 1685112974122
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4dcc7ba67e944cac9d5a2e3fc3b7ea17
+run_name: zealous-crab-491
+run_uuid: 4dcc7ba67e944cac9d5a2e3fc3b7ea17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685112925341
+status: 3
+tags: []
+user_id: gchri

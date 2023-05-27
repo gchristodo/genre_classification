@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/e65e0db359994a6d90dec8c38121059c/artifacts
+end_time: 1685093633259
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e65e0db359994a6d90dec8c38121059c
+run_name: burly-toad-550
+run_uuid: e65e0db359994a6d90dec8c38121059c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685093600100
+status: 3
+tags: []
+user_id: gchri

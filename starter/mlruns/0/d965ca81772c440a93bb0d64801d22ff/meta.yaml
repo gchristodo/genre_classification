@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/d965ca81772c440a93bb0d64801d22ff/artifacts
+end_time: 1685075054584
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d965ca81772c440a93bb0d64801d22ff
+run_name: beautiful-doe-11
+run_uuid: d965ca81772c440a93bb0d64801d22ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685074956026
+status: 4
+tags: []
+user_id: gchri

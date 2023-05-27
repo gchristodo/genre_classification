@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/7bab1a97907a4958b38c6bde13a5aa1f/artifacts
+end_time: 1685020417504
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7bab1a97907a4958b38c6bde13a5aa1f
+run_name: beautiful-wolf-698
+run_uuid: 7bab1a97907a4958b38c6bde13a5aa1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685020046644
+status: 4
+tags: []
+user_id: gchri

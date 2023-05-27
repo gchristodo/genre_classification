@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/cacdad917b3a4d729c7ecfa1bf25acfb/artifacts
+end_time: 1685021767559
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cacdad917b3a4d729c7ecfa1bf25acfb
+run_name: thoughtful-newt-262
+run_uuid: cacdad917b3a4d729c7ecfa1bf25acfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685021417201
+status: 4
+tags: []
+user_id: gchri

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/d620cfd617424a8fae00681d2e493512/artifacts
+end_time: 1685028118216
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d620cfd617424a8fae00681d2e493512
+run_name: shivering-newt-327
+run_uuid: d620cfd617424a8fae00681d2e493512
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685028090343
+status: 4
+tags: []
+user_id: gchri

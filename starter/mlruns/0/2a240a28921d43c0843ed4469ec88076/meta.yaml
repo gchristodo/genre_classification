@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/2a240a28921d43c0843ed4469ec88076/artifacts
+end_time: 1685025774591
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a240a28921d43c0843ed4469ec88076
+run_name: tasteful-whale-939
+run_uuid: 2a240a28921d43c0843ed4469ec88076
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685025746336
+status: 4
+tags: []
+user_id: gchri

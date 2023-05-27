@@ -16,6 +16,4 @@ entry_points:
     # NOTE: the -s flag is necessary, otherwise pytest will capture all the output and it
     # will not be uploaded to W&B. Hence, the log in W&B will be empty.
     command: >-
-      pytest -s -vv . --reference_artifact {reference_artifact} \
-                      --sample_artifact {sample_artifact} \
-                      --ks_alpha {ks_alpha}
+      pytest -s -vv . --reference_artifact {reference_artifact} --sample_artifact {sample_artifact} --ks_alpha {ks_alpha}

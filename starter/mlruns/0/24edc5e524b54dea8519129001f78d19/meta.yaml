@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/24edc5e524b54dea8519129001f78d19/artifacts
+end_time: 1685083674718
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 24edc5e524b54dea8519129001f78d19
+run_name: loud-eel-360
+run_uuid: 24edc5e524b54dea8519129001f78d19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685083645004
+status: 4
+tags: []
+user_id: gchri

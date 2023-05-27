@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/a5c0d941daf641bdbc881e2013291b27/artifacts
+end_time: 1685093600036
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5c0d941daf641bdbc881e2013291b27
+run_name: debonair-owl-358
+run_uuid: a5c0d941daf641bdbc881e2013291b27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685093572180
+status: 3
+tags: []
+user_id: gchri

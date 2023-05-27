@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/fd51b83a59bc487580bd95009eddc582/artifacts
+end_time: 1685103187296
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd51b83a59bc487580bd95009eddc582
+run_name: sneaky-ant-67
+run_uuid: fd51b83a59bc487580bd95009eddc582
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685102828891
+status: 4
+tags: []
+user_id: gchri

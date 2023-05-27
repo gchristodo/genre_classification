@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/7ca9197c188a4d89a28b14749aed51ab/artifacts
+end_time: 1685101296523
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ca9197c188a4d89a28b14749aed51ab
+run_name: redolent-rat-480
+run_uuid: 7ca9197c188a4d89a28b14749aed51ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685093521194
+status: 4
+tags: []
+user_id: gchri

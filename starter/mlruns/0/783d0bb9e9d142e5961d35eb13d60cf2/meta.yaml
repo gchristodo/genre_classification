@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/783d0bb9e9d142e5961d35eb13d60cf2/artifacts
+end_time: 1685075436279
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 783d0bb9e9d142e5961d35eb13d60cf2
+run_name: silent-cub-376
+run_uuid: 783d0bb9e9d142e5961d35eb13d60cf2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685075413039
+status: 4
+tags: []
+user_id: gchri

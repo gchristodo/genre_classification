@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/90f0f61c8d6a4e12bffa96c336519016/artifacts
+end_time: 1685026973426
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 90f0f61c8d6a4e12bffa96c336519016
+run_name: charming-stag-250
+run_uuid: 90f0f61c8d6a4e12bffa96c336519016
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685026945734
+status: 4
+tags: []
+user_id: gchri

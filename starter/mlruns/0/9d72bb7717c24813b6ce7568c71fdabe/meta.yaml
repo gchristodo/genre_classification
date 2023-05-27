@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/9d72bb7717c24813b6ce7568c71fdabe/artifacts
+end_time: 1685086224534
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d72bb7717c24813b6ce7568c71fdabe
+run_name: magnificent-calf-559
+run_uuid: 9d72bb7717c24813b6ce7568c71fdabe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685086163972
+status: 4
+tags: []
+user_id: gchri

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/5835a6b5e6a44b7c907d8be5b8d1157f/artifacts
+end_time: 1685029266627
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5835a6b5e6a44b7c907d8be5b8d1157f
+run_name: rebellious-tern-473
+run_uuid: 5835a6b5e6a44b7c907d8be5b8d1157f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685029244087
+status: 4
+tags: []
+user_id: gchri

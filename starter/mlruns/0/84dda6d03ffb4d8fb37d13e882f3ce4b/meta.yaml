@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/84dda6d03ffb4d8fb37d13e882f3ce4b/artifacts
+end_time: 1685020874296
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84dda6d03ffb4d8fb37d13e882f3ce4b
+run_name: bedecked-hawk-641
+run_uuid: 84dda6d03ffb4d8fb37d13e882f3ce4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685020747815
+status: 4
+tags: []
+user_id: gchri

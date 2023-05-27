@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/2ac5f36f02c74fadbf5619c09167e36f/artifacts
+end_time: 1685104198860
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ac5f36f02c74fadbf5619c09167e36f
+run_name: beautiful-gnat-157
+run_uuid: 2ac5f36f02c74fadbf5619c09167e36f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685104193365
+status: 4
+tags: []
+user_id: gchri

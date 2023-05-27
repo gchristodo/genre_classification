@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/7013845b66de4571b534aa365161dff5/artifacts
+end_time: 1685025987229
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7013845b66de4571b534aa365161dff5
+run_name: monumental-boar-801
+run_uuid: 7013845b66de4571b534aa365161dff5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685025964996
+status: 4
+tags: []
+user_id: gchri

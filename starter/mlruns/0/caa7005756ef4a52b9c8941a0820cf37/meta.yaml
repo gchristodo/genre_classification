@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/caa7005756ef4a52b9c8941a0820cf37/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: caa7005756ef4a52b9c8941a0820cf37
+run_name: suave-dog-528
+run_uuid: caa7005756ef4a52b9c8941a0820cf37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685088823176
+status: 1
+tags: []
+user_id: gchri

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/8c5b291511cb4dcd82364f55e0b2808f/artifacts
+end_time: 1685085417415
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c5b291511cb4dcd82364f55e0b2808f
+run_name: sneaky-rook-669
+run_uuid: 8c5b291511cb4dcd82364f55e0b2808f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685085393495
+status: 4
+tags: []
+user_id: gchri

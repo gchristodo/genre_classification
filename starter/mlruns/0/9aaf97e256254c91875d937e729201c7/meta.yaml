@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/9aaf97e256254c91875d937e729201c7/artifacts
+end_time: 1685028653127
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9aaf97e256254c91875d937e729201c7
+run_name: wistful-dolphin-272
+run_uuid: 9aaf97e256254c91875d937e729201c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685028631654
+status: 4
+tags: []
+user_id: gchri

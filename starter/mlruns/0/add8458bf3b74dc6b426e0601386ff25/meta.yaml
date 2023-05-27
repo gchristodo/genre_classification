@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/add8458bf3b74dc6b426e0601386ff25/artifacts
+end_time: 1685112866214
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: add8458bf3b74dc6b426e0601386ff25
+run_name: wise-rook-465
+run_uuid: add8458bf3b74dc6b426e0601386ff25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685112845315
+status: 3
+tags: []
+user_id: gchri

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/5088cd0f19fc44cdad0a45b756e6845f/artifacts
+end_time: 1685086195718
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5088cd0f19fc44cdad0a45b756e6845f
+run_name: skillful-grouse-145
+run_uuid: 5088cd0f19fc44cdad0a45b756e6845f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685086169281
+status: 3
+tags: []
+user_id: gchri

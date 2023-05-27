@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/ce4e49be00424deabaa1599c8d797a38/artifacts
+end_time: 1685026917487
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce4e49be00424deabaa1599c8d797a38
+run_name: clumsy-shad-911
+run_uuid: ce4e49be00424deabaa1599c8d797a38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685026913680
+status: 4
+tags: []
+user_id: gchri

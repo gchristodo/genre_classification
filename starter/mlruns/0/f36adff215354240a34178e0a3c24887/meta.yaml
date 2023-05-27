@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/f36adff215354240a34178e0a3c24887/artifacts
+end_time: 1685027454950
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f36adff215354240a34178e0a3c24887
+run_name: sassy-grub-186
+run_uuid: f36adff215354240a34178e0a3c24887
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685027429334
+status: 4
+tags: []
+user_id: gchri

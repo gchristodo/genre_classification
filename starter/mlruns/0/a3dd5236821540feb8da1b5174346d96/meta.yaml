@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/a3dd5236821540feb8da1b5174346d96/artifacts
+end_time: 1685026783490
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a3dd5236821540feb8da1b5174346d96
+run_name: debonair-tern-368
+run_uuid: a3dd5236821540feb8da1b5174346d96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685026755895
+status: 4
+tags: []
+user_id: gchri

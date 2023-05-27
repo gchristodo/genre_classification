@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/73c309ef0c2846429597fab2630e13aa/artifacts
+end_time: 1685028224453
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73c309ef0c2846429597fab2630e13aa
+run_name: upbeat-steed-900
+run_uuid: 73c309ef0c2846429597fab2630e13aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685028196813
+status: 4
+tags: []
+user_id: gchri

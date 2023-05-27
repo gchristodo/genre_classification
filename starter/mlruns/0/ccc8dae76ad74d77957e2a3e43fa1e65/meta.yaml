@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/ccc8dae76ad74d77957e2a3e43fa1e65/artifacts
+end_time: 1685102882383
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ccc8dae76ad74d77957e2a3e43fa1e65
+run_name: classy-zebra-829
+run_uuid: ccc8dae76ad74d77957e2a3e43fa1e65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685102863550
+status: 3
+tags: []
+user_id: gchri

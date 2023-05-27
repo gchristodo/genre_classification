@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/d02dfbba165841ad8297036829f3f4be/artifacts
+end_time: 1685026470416
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d02dfbba165841ad8297036829f3f4be
+run_name: polite-trout-745
+run_uuid: d02dfbba165841ad8297036829f3f4be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685026448459
+status: 4
+tags: []
+user_id: gchri

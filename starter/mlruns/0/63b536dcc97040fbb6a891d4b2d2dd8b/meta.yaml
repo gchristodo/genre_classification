@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/63b536dcc97040fbb6a891d4b2d2dd8b/artifacts
+end_time: 1685028117499
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63b536dcc97040fbb6a891d4b2d2dd8b
+run_name: nimble-stag-846
+run_uuid: 63b536dcc97040fbb6a891d4b2d2dd8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685028095231
+status: 4
+tags: []
+user_id: gchri

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/ebab113510d24fc796591eade50a1a5f/artifacts
+end_time: 1685027606373
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ebab113510d24fc796591eade50a1a5f
+run_name: spiffy-pug-52
+run_uuid: ebab113510d24fc796591eade50a1a5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685027584199
+status: 4
+tags: []
+user_id: gchri

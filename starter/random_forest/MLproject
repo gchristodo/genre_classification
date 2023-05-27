@@ -27,9 +27,4 @@ entry_points:
         type: str
         default: null
     command: >-
-      python run.py --train_data {train_data} \
-                    --model_config {model_config} \
-                    --export_artifact {export_artifact} \
-                    --random_seed {random_seed} \
-                    --val_size {val_size} \
-                    --stratify {stratify}
+      python run.py --train_data {train_data} --model_config {model_config} --export_artifact {export_artifact} --random_seed {random_seed} --val_size {val_size} --stratify {stratify}

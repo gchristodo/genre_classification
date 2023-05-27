@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/6b457ca48d1447b1b6f0026e379063a0/artifacts
+end_time: 1685026782889
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b457ca48d1447b1b6f0026e379063a0
+run_name: rare-grouse-77
+run_uuid: 6b457ca48d1447b1b6f0026e379063a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685026760758
+status: 4
+tags: []
+user_id: gchri

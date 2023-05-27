@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/2ac42eca90d646669faf0d25813f2442/artifacts
+end_time: 1685103929763
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ac42eca90d646669faf0d25813f2442
+run_name: flawless-rook-925
+run_uuid: 2ac42eca90d646669faf0d25813f2442
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685103923792
+status: 4
+tags: []
+user_id: gchri

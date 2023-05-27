@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/efc3d0c5c53943e3a4888c490edbdb95/artifacts
+end_time: 1685104706403
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: efc3d0c5c53943e3a4888c490edbdb95
+run_name: inquisitive-vole-300
+run_uuid: efc3d0c5c53943e3a4888c490edbdb95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685104673345
+status: 3
+tags: []
+user_id: gchri

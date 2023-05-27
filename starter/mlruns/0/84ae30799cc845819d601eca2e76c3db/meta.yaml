@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/84ae30799cc845819d601eca2e76c3db/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84ae30799cc845819d601eca2e76c3db
+run_name: rambunctious-roo-103
+run_uuid: 84ae30799cc845819d601eca2e76c3db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685104620885
+status: 1
+tags: []
+user_id: gchri

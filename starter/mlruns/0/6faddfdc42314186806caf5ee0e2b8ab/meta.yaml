@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/6faddfdc42314186806caf5ee0e2b8ab/artifacts
+end_time: 1685112895510
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6faddfdc42314186806caf5ee0e2b8ab
+run_name: honorable-cat-312
+run_uuid: 6faddfdc42314186806caf5ee0e2b8ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685112866274
+status: 3
+tags: []
+user_id: gchri

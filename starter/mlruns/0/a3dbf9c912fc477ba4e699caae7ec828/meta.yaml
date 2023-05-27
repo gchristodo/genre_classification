@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/a3dbf9c912fc477ba4e699caae7ec828/artifacts
+end_time: 1685077197196
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a3dbf9c912fc477ba4e699caae7ec828
+run_name: victorious-rook-658
+run_uuid: a3dbf9c912fc477ba4e699caae7ec828
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685077174731
+status: 4
+tags: []
+user_id: gchri

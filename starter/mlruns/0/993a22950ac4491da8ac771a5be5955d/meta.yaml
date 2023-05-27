@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/993a22950ac4491da8ac771a5be5955d/artifacts
+end_time: 1685087080552
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 993a22950ac4491da8ac771a5be5955d
+run_name: bemused-auk-572
+run_uuid: 993a22950ac4491da8ac771a5be5955d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685086885616
+status: 3
+tags: []
+user_id: gchri

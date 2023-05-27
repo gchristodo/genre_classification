@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/f1adac612a194bdb9260e0ece7708e55/artifacts
+end_time: 1685086019342
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1adac612a194bdb9260e0ece7708e55
+run_name: defiant-wren-504
+run_uuid: f1adac612a194bdb9260e0ece7708e55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685085650464
+status: 4
+tags: []
+user_id: gchri

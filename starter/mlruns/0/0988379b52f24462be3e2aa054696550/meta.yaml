@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/0988379b52f24462be3e2aa054696550/artifacts
+end_time: 1685075504906
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0988379b52f24462be3e2aa054696550
+run_name: upset-sow-47
+run_uuid: 0988379b52f24462be3e2aa054696550
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685075482526
+status: 4
+tags: []
+user_id: gchri

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/0821f97cb1874141b6da159f7a2e6f26/artifacts
+end_time: 1685027553538
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0821f97cb1874141b6da159f7a2e6f26
+run_name: calm-robin-197
+run_uuid: 0821f97cb1874141b6da159f7a2e6f26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685027525980
+status: 4
+tags: []
+user_id: gchri

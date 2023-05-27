@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/380a7b952aaa4a8582338dc2318d4883/artifacts
+end_time: 1685088340791
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 380a7b952aaa4a8582338dc2318d4883
+run_name: respected-colt-444
+run_uuid: 380a7b952aaa4a8582338dc2318d4883
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685087598779
+status: 4
+tags: []
+user_id: gchri

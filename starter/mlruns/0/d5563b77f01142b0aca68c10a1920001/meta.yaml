@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/d5563b77f01142b0aca68c10a1920001/artifacts
+end_time: 1685085317806
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5563b77f01142b0aca68c10a1920001
+run_name: merciful-asp-977
+run_uuid: d5563b77f01142b0aca68c10a1920001
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685085287008
+status: 4
+tags: []
+user_id: gchri

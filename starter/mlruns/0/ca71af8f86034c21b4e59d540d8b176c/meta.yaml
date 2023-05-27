@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/ca71af8f86034c21b4e59d540d8b176c/artifacts
+end_time: 1685027454341
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca71af8f86034c21b4e59d540d8b176c
+run_name: unleashed-bat-699
+run_uuid: ca71af8f86034c21b4e59d540d8b176c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685027434274
+status: 4
+tags: []
+user_id: gchri

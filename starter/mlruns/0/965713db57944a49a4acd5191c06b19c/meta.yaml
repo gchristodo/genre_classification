@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/965713db57944a49a4acd5191c06b19c/artifacts
+end_time: 1685104653519
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 965713db57944a49a4acd5191c06b19c
+run_name: serious-wolf-641
+run_uuid: 965713db57944a49a4acd5191c06b19c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685104626484
+status: 3
+tags: []
+user_id: gchri

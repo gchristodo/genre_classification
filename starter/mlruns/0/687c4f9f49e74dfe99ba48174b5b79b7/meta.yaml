@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/687c4f9f49e74dfe99ba48174b5b79b7/artifacts
+end_time: 1685103896596
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 687c4f9f49e74dfe99ba48174b5b79b7
+run_name: exultant-shrike-766
+run_uuid: 687c4f9f49e74dfe99ba48174b5b79b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685103862365
+status: 3
+tags: []
+user_id: gchri

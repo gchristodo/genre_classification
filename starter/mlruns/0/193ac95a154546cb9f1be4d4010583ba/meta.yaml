@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/193ac95a154546cb9f1be4d4010583ba/artifacts
+end_time: 1685093553934
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 193ac95a154546cb9f1be4d4010583ba
+run_name: amusing-croc-346
+run_uuid: 193ac95a154546cb9f1be4d4010583ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685093526775
+status: 3
+tags: []
+user_id: gchri

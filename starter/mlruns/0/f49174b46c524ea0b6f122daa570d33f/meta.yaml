@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/f49174b46c524ea0b6f122daa570d33f/artifacts
+end_time: 1685027552923
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f49174b46c524ea0b6f122daa570d33f
+run_name: victorious-mole-399
+run_uuid: f49174b46c524ea0b6f122daa570d33f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685027530769
+status: 4
+tags: []
+user_id: gchri

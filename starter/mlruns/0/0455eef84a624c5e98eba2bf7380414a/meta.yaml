@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/0455eef84a624c5e98eba2bf7380414a/artifacts
+end_time: 1685103862278
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0455eef84a624c5e98eba2bf7380414a
+run_name: bustling-hound-453
+run_uuid: 0455eef84a624c5e98eba2bf7380414a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685103838802
+status: 3
+tags: []
+user_id: gchri

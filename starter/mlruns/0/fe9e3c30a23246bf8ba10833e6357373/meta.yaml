@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/fe9e3c30a23246bf8ba10833e6357373/artifacts
+end_time: 1685028575805
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe9e3c30a23246bf8ba10833e6357373
+run_name: orderly-smelt-52
+run_uuid: fe9e3c30a23246bf8ba10833e6357373
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685028555933
+status: 4
+tags: []
+user_id: gchri

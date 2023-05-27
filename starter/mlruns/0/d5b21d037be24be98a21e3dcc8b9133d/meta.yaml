@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/d5b21d037be24be98a21e3dcc8b9133d/artifacts
+end_time: 1685086223856
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5b21d037be24be98a21e3dcc8b9133d
+run_name: fun-mouse-235
+run_uuid: d5b21d037be24be98a21e3dcc8b9133d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685086195781
+status: 4
+tags: []
+user_id: gchri

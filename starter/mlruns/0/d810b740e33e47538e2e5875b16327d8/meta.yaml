@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gchri/Desktop/Pfizer/Udacity/End_to_end_ML_Pipeline/genre_classification/starter/mlruns/0/d810b740e33e47538e2e5875b16327d8/artifacts
+end_time: 1685077257368
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d810b740e33e47538e2e5875b16327d8
+run_name: puzzled-gull-281
+run_uuid: d810b740e33e47538e2e5875b16327d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685077228404
+status: 4
+tags: []
+user_id: gchri
